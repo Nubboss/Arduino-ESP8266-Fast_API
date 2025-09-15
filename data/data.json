@@ -1,0 +1,74 @@
+[
+  {
+    "device": "arduino_dht11",
+    "temperature": 23.4,
+    "humidity": 73.0,
+    "received_at": "2025-09-15T06:18:24.083415"
+  },
+  {
+    "device": "test",
+    "temperature": 1.0,
+    "humidity": 2.0,
+    "received_at": "2025-09-15T06:29:39.501619"
+  },
+  {
+    "device": "arduino_dht11",
+    "temperature": 23.8,
+    "humidity": 72.0,
+    "received_at": "2025-09-15T06:37:57.751246"
+  },
+  {
+    "device": "arduino_dht11",
+    "temperature": 23.8,
+    "humidity": 72.0,
+    "received_at": "2025-09-15T06:39:22.343765"
+  },
+  {
+    "device": "arduino_dht11",
+    "temperature": 24.1,
+    "humidity": 78.0,
+    "received_at": "2025-09-15T06:40:56.243652"
+  },
+  {
+    "device": "arduino_dht11",
+    "temperature": 24.1,
+    "humidity": 72.0,
+    "received_at": "2025-09-15T06:41:25.839780"
+  },
+  {
+    "device": "arduino_dht11",
+    "temperature": 24.1,
+    "humidity": 72.0,
+    "received_at": "2025-09-15T06:41:55.328931"
+  },
+  {
+    "device": "arduino_dht11",
+    "temperature": 24.1,
+    "humidity": 72.0,
+    "received_at": "2025-09-15T06:42:24.781140"
+  },
+  {
+    "device": "arduino_dht11",
+    "temperature": 24.9,
+    "humidity": 98.0,
+    "received_at": "2025-09-15T06:42:54.413473"
+  },
+  {
+    "device": "arduino_dht11",
+    "temperature": 24.8,
+    "humidity": 95.0,
+    "received_at": "2025-09-15T06:43:23.820354"
+  },
+  {
+    "device": "arduino_dht11",
+    "temperature": 25.8,
+    "humidity": 96.0,
+    "received_at": "2025-09-15T06:43:53.398963"
+  },
+  {
+    "device": "arduino_dht11",
+    "temperature": 25.8,
+    "humidity": 87.0,
+    "received_at": "2025-09-15T06:44:22.862842"
+  }
+]

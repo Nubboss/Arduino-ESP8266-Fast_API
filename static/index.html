@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Температура и влажность</title>
+  <link rel="stylesheet" href="static/main.css">
+</head>
+<body>
+  <main class="wrap">
+    <div id="card" class="card">
+      <div class="row">
+        <div class="metric">
+          <div class="label">Температура</div>
+          <div id="temp" class="value">— °C</div>
+        </div>
+        <div class="metric">
+          <div class="label">Влажность</div>
+          <div id="hum" class="value">— %</div>
+        </div>
+      </div>
+      <div id="time" class="time">Обновление: —</div>
+    </div>
+  </main>
+
+  <script src="static/app.js"></script>
+</body>
+</html>
